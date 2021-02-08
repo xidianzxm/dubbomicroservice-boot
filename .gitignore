@@ -11,5 +11,9 @@ mvnw.cmd
 *.iml
 *.ipr
 ~/*
-/.settings
-*/.settings/
+/.settings/*
+*/.settings/*
+.settings/
+.project
+*/.project
+
